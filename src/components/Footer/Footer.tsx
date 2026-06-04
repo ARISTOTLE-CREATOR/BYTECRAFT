@@ -63,9 +63,9 @@ export default function Footer() {
           <div className="footer-col" id="footer-col-4">
             <h4>Office Location</h4>
             <ul className="contact-info-list" id="footer-list-4">
-              <li>1498 Wluton ste, STE, <br />2D Chicago, IL 63167</li>
-              <li>(123) 4567-89000</li>
-              <li><a href="mailto:info@bytecraft.com" style={{ textDecoration: 'underline' }}>info@bytecraft.com</a></li>
+              <li>Hyderabad, Telangana 500081<br />Cyber Towers, HITEC City</li>
+              <li>(+91) 98765 43210</li>
+              <li><a href="mailto:hello@bytecraft.in" style={{ textDecoration: 'underline' }}>info@bytecraft.com</a></li>
             </ul>
           </div>
 

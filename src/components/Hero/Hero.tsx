@@ -16,7 +16,7 @@ export default function Hero() {
       <div className="container hero-row">
         <div className="hero-content" id="hero-left-content">
           <h1 id="hero-main-heading">
-            The <span className="highlight-underline">thinkers</span> and doers were <span className="highlight-pill pink">changing</span> the <span className="highlight-pill green">status</span> Quo with
+            Crafting the <span className="highlight-underline">future,</span> one <span className="highlight-pill pink">byte</span> at a <span className="highlight-pill green">Time</span> 
           </h1>
           <p className="hero-description" id="hero-desc-para">
             We are a team of strategists, designers, communicators, researchers. Together, we believe that progress only happens when you refuse to play things safe.

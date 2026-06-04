@@ -16,7 +16,7 @@ export default function Hero() {
       <div className="container hero-row">
         <div className="hero-content" id="hero-left-content">
           <h1 id="hero-main-heading">
-            Crafting the <span className="highlight-underline">future,</span> one <span className="highlight-pill pink">byte</span> at a <span className="highlight-pill green">Time</span> 
+            Crafting the <span className="highlight-underline">Future,</span> One <span className="highlight-pill pink">Byte</span> At a <span className="highlight-pill green">Time</span> 
           </h1>
           <p className="hero-description" id="hero-desc-para">
             We are a team of strategists, designers, communicators, researchers. Together, we believe that progress only happens when you refuse to play things safe.

@@ -1,0 +1,6 @@
+{
+  "name": "ByteCraft",
+  "description": "A pixel-perfect responsive agency landing page crafted using modular React components and reusable plain CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

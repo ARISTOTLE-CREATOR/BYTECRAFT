@@ -77,19 +77,16 @@ Potential enhancements for future versions include:
 * Smooth animations and micro-interactions
 * Contact form integration
 * Backend-powered newsletter subscriptions
-* SEO optimization
 * Performance monitoring and analytics
 * Multi-page expansion for agency services
 
 ## Live Demo
 
-View the deployed project:
+View the deployed project: https://bytecraft-mocha.vercel.app
 
 https://bytecraft-mocha.vercel.app/
 
 ## Author
-
-**Rapolu Sai Nithin**
 
 Computer Science & Engineering (AI & ML) Student
 

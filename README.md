@@ -66,7 +66,6 @@ During development, several frontend challenges were addressed:
 * Maintaining design consistency across screen sizes
 * Creating reusable and maintainable UI components
 * Ensuring responsive behavior for complex layouts
-* Improving visual hierarchy and user engagement
 * Optimizing performance and code organization
 
 ## Future Improvements

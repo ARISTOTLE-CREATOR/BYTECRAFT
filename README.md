@@ -33,7 +33,6 @@ ByteCraft is a clean and professional agency-style landing page that showcases:
 
 ## Project Structure
 
-```text
 src/
 ├── components/
 ├── assets/

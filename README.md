@@ -8,7 +8,6 @@ ByteCraft is a clean and professional agency-style landing page that showcases:
 
 - Modern UI design
 - Responsive layouts
-- Reusable React components
 - Mobile-first development practices
 - Clean and maintainable code structure
 

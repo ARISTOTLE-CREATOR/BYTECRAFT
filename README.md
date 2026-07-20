@@ -4,7 +4,7 @@ A modern, responsive React landing page built from a Figma design as part of a F
 
 ## Overview
 
-ByteCraft is a clean and professional agency-style landing page that showcases:
+ByteCraft is a clean  and professional agency-style landing page that showcases:
 
 - Modern UI design
 - Responsive layouts

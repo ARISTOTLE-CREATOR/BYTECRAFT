@@ -15,7 +15,7 @@ ByteCraft is a clean  and professional agency-style landing page that showcases:
 
 - Responsive design for Desktop, Tablet, and Mobile
 - Reusable React components
-- Modern landing page layout
+- Modern landing  page layout
 - Services section
 - Testimonials section
 - Newsletter subscription section
